@@ -8,9 +8,9 @@
 ### **SEMESTE:** 2º  
 ### **GRUPO:** 13SC121
 
-# **Introduccion**
+# **Introducción**
 
-C++ es uno de los más populares y utilizados en el mundo de la informática y la programación. Con él, se pueden desarrollar programas de todo tipo, desde aplicaciones de escritorio hasta sistemas operativos.
+C++ es uno de los lefuajes de programacion más populares y utilizados en el mundo de la informática y la programación. Con él, se pueden desarrollar programas de todo tipo, desde aplicaciones de escritorio hasta sistemas operativos.
 
 En este proyecto, se presentan 5 programas desarrollados en C++, cada uno de los cuales está compuesto por una descripción del código, el propio código fuente, una explicación detallada del mismo bloque por bloque, y finalmente, su compilado en el cmd de Windows.
 
