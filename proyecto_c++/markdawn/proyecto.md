@@ -1,6 +1,6 @@
 ![escudo](../markdawn/img/extra/UMB.png)
 ## Univeridad Mexiquense del Bicentenario
-## Unidad de estudios superiores San Jose Del Rincon
+## Unidad de estudios superiores San José Del Rincón
 ## **PRACTICAS 1º PARCIAL.**
 ### **ASIGNATURA:** Programación Orinetada a Objetos
 ### **DOCENTE:** I.S.C Eduardo Becerril Romero.
